@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+#navbarbutton {
+    color:aqua;
+    background-color:aqua;
+}
+
+p {
+    color:brown;
+}
+
+.page_header {
+    font-size: 3rem;
+    color:red;
+}
+
+.subhead {
+    font-size: 2rem;
+    color:brown
+}
+
+.text {
+    font-size: 1.25rem;
+    color:darksalmon;
+}
+
+
